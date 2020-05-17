@@ -1,0 +1,15 @@
+{ 
+        "files": [
+            {
+                "type": "image",
+                "key": "taikodrummaster",
+                "url": "assets/pics/taikodrummaster.jpg"
+            },
+            {
+                "type": "image",
+                "key": "net",
+                "url": "assets/field-tiles.png"
+            }
+        ]
+    
+}

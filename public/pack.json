@@ -1,0 +1,66 @@
+{
+    "main": {
+        "files": [
+            {
+                "type": "spritesheet",
+                "key": "geegee0",
+                "url": "assets/horse-0.png",
+                "frameConfig": { "frameWidth": 245, "frameHeight": 200 }
+            },
+            {
+                "type": "spritesheet",
+                "key": "geegee1",
+                "url": "assets/horse-1.png",
+                "frameConfig": { "frameWidth": 245, "frameHeight": 200 }
+            },
+            {
+                "type": "spritesheet",
+                "key": "geegee2",
+                "url": "assets/horse-2.png",
+                "frameConfig": { "frameWidth": 245, "frameHeight": 200 }
+            },
+            {
+                "type": "spritesheet",
+                "key": "geegee3",
+                "url": "assets/horse-3.png",
+                "frameConfig": { "frameWidth": 245, "frameHeight": 200 }
+            },
+            {
+                "type": "spritesheet",
+                "key": "geegee4",
+                "url": "assets/horse-4.png",
+                "frameConfig": { "frameWidth": 245, "frameHeight": 200 }
+            }, 
+            {
+                "type": "spritesheet",
+                "key": "geegee5",
+                "url": "assets/horse-5.png",
+                "frameConfig": { "frameWidth": 245, "frameHeight": 200 }
+            },
+            {
+                "type": "spritesheet",
+                "key": "geegee6",
+                "url": "assets/horse-6.png",
+                "frameConfig": { "frameWidth": 245, "frameHeight": 200 }
+            },
+            {
+                "type": "spritesheet",
+                "key": "geegee7",
+                "url": "assets/horse-7.png",
+                "frameConfig": { "frameWidth": 245, "frameHeight": 200 }
+            },
+            {
+                "type": "spritesheet",
+                "key": "geegee8",
+                "url": "assets/horse-8.png",
+                "frameConfig": { "frameWidth": 245, "frameHeight": 200 }
+            },
+            {
+                "type": "spritesheet",
+                "key": "geegee9",
+                "url": "assets/horse-9.png",
+                "frameConfig": { "frameWidth": 245, "frameHeight": 200 }
+            }
+        ]
+    }
+}
